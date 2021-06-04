@@ -1,0 +1,2 @@
+- name: Heroku Build
+  uses: behe/heroku-build@v1
